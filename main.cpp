@@ -5,18 +5,18 @@ int main()
     //
     //  Variabile Contatore di tipo int
     //
-    int conta=0; 
+    int count=0; 
 
     //
     //  Ciclo che incrementa la variabile 
     // 
-    for(int i=0; i<10; i++)
+    for(int x=0; x<10; x++)
     {
-        conta++;
+        count++;
     }
     //
     //  Stampa Variabile 
     // 
-    cout<<conta<<endl;
+    cout<<count<<endl;
     system("pause");
 }
