@@ -15,7 +15,11 @@ int main()
         count++;
     }
     //
+<<<<<<< HEAD
     //  Valore finale Variavile count
+=======
+    //  Visualizzazione Variabile 
+>>>>>>> FIX_BUG
     // 
     cout<<count<<endl;
     system("pause");
