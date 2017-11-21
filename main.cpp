@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     //
-    //  Variabile Contatore int
+    //  Variabile Contatore di tipo int
     //
     int conta=0; 
 
