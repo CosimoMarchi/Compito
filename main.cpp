@@ -10,11 +10,10 @@ int main()
     //
     //  Ciclo che incrementa la variabile 
     // 
-    do
+    for(int i=0; i<10; i++)
     {
         conta++;
-    }while(conta<10);
-
+    }
     //
     //  Stampa Variabile 
     // 
