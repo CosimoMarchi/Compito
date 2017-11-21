@@ -15,7 +15,7 @@ int main()
         count++;
     }
     //
-    //  Stampa Variabile 
+    //  Valore finale Variavile count
     // 
     cout<<count<<endl;
     system("pause");
