@@ -15,7 +15,7 @@ int main()
         count++;
     }
     //
-    //  Stampa Variabile 
+    //  Visualizzazione Variabile 
     // 
     cout<<count<<endl;
     system("pause");
